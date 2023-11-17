@@ -1,7 +1,7 @@
-package com.example.projectBase.domain;
+package com.example.dataresthaldemo.domain;
 
+import jakarta.persistence.*;
 import lombok.Data;
-import javax.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
 
 import java.time.LocalDateTime;
